@@ -5,19 +5,13 @@ blood bank inventories, blood requests, an AI-style compatibility & safety
 checker, messaging, test report uploads, donation history, and an admin
 dashboard with charts.
 
-## Run locally
+## Run 
 
-```bash
-npm install
-npm run dev
-```
+givepulse.web.app
 
-Then open the printed local URL (usually http://localhost:5173).
 
 ## Demo logins
 
-- **User:** miraz@example.com / password
-- **Admin:** admin@givepulse.bd / admin123
 
 ## Notes
 
